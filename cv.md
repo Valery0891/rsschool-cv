@@ -1,21 +1,21 @@
-#Slizh Valery
+# Slizh Valery
 ***
-##Contacts
+## Contacts
 * **Location:** Minsk, Belarus
 * **Phone:** +375 29 320-86-73
 * **Email:** valeriyslihz@gmail.com
 * **GitHub:** [Valery0891](https://github.com/Valery0891)
 ***
-##About Me
+## About Me
 Everything what I lie about myself may be wrong.
 ***
-##Skills
+## Skills
 * HTML (Basic)
 * SCC (Basic)
 * Java Script (Basic)
 * Git (Basic)
 ***
-##Code Example
+## Code Example
 Write a function which formats a duration, given as a number of
 seconds, in a human-friendly way. The function must accept a
 non-negative integer. If it is zero, it just returns "now".
@@ -58,12 +58,12 @@ return arr.join(', ').replace(/(.*)(,)/g, '\$1\ and');
 }
 ```
 ***
-##Experience
-I have no experience in this area. ((
+## Experience
+I have no experience in this area.
 ***
-##Education
+## Education
 * **University:** Belarusian National Technical University
 * **Speciality:** Economics and company management
 ***
-##English
+## English
 **A2**
